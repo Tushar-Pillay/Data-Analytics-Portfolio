@@ -161,7 +161,8 @@ select category,
 from new_table 
 group by 1;
 ```
-#### Objective: Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
+#### Objective:
+Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
 
 
