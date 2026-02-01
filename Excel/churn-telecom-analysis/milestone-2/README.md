@@ -135,5 +135,3 @@ Personas were defined using tenure, stickiness, pricing sensitivity, contract ty
 
 ---
 
-## 📁 Repository Structure
-
