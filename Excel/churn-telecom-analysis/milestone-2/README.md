@@ -20,6 +20,16 @@ Building on customer segmentation from Milestone 1, this phase applies **CLV ana
 
 ---
 
+## 📁 Repository Contents
+
+- **`M2 Engagement Analysis.xlsx`**  
+  Contains cleaned data, engineered features, pivot-table analysis, and churn segmentation outputs.
+
+- **`M2_Engagement_Report.pdf`**  
+  A detailed analytical report covering methodology, visualizations, insights, and business interpretations.
+  
+---  
+
 ## 📂 Dataset Description
 - **Source:** Telecom Customer Churn Dataset
 - **Records:** 7,043 customers
