@@ -22,10 +22,10 @@ Building on customer segmentation from Milestone 1, this phase applies **CLV ana
 
 ## 📁 Repository Contents
 
-- **`M2 Engagement Analysis.xlsx`**  
+- **[M2 Engagement Analysis.xlsx](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/churn-telecom-analysis/milestone-2/M2_Engagement_Analysis.xlsx)**  
   Contains cleaned data, engineered features, pivot-table analysis, and churn segmentation outputs.
 
-- **`M2_Engagement_Report.pdf`**  
+- **[M2_Engagement_Report.pdf](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/churn-telecom-analysis/milestone-2/M2_Engagement_Report.pdf)**  
   A detailed analytical report covering methodology, visualizations, insights, and business interpretations.
   
 ---  
