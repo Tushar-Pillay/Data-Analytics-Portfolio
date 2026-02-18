@@ -23,7 +23,7 @@ The dashboard includes:
 ## 📈 File Included
 - 📊 **[View PowerBI Dashboard](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/churn-telecom-analysis/M4_Churn_Dashboard.pbix)**
 
-👉 📁 **[View Detailed Churn-telecom-analysis Project(M1,M2,M3 and M4)](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/Excel/churn-telecom-analysis)**
+👉 📁 **[View Detailed Churn-telecom-analysis Project(Milestone-1,2,3&4)](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/Excel/churn-telecom-analysis)**
 
 ---
 
