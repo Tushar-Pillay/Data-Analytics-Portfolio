@@ -30,7 +30,7 @@ No Excel analytical file is included for M4. All calculations, DAX modeling, and
 All analytical modeling and interactive dashboard development were implemented in Power BI.
 
 👉 Click here to view the Power BI implementation:  
-📁 **[Go to Power BI Folder](../PowerBI/)**
+📁 **[M4_Churn_Dashboard](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/churn-telecom-analysis/M4_Churn_Dashboard.pbix)**
 
 ---
 
@@ -38,6 +38,5 @@ All analytical modeling and interactive dashboard development were implemented i
 - Microsoft Word
 - Microsoft PowerPoint
 
-For DAX calculations and interactive dashboard, refer to:
-📁 **[Power BI Folder](../PowerBI/)**
+
 
