@@ -4,7 +4,7 @@ Welcome to my data analytics portfolio.
 This repository contains business-focused projects using SQL, Excel, Python, Power BI, and Tableau.
 
 ## 📂 Project Categories
-- 📊 SQL
+- 📊 [SQL](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/SQL)
 - 📈 Excel
 - 🐍 Python
 - 📉 Power BI
