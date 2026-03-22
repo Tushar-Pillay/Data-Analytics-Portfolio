@@ -5,7 +5,7 @@ This repository contains business-focused projects using SQL, Excel, Python, Pow
 
 ## 📂 Project Categories
 - 📊 [SQL](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/SQL)
-- 📈 Excel
+- 📈 [Excel](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/Excel)
 - 🐍 Python
-- 📉 Power BI
+- 📉 [Power BI](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/PowerBI)
 - 📊 Tableau
