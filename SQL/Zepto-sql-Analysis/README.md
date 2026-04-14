@@ -40,7 +40,7 @@ Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate p
 
 > quantity: Number of units per package (mixed with grams for loose produce)
 
-### Refer to the [SQL_file](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/SQL/Zepto-sql-Analysis/Zepto_SQL_data_analysis.sql) for more details.
+##### Refer to the [SQL_project_file](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/SQL/Zepto-sql-Analysis/Zepto_SQL_data_analysis.sql).
 
 ## 🔧 Project Workflow
 
