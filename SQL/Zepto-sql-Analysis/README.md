@@ -40,12 +40,11 @@ Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate p
 
 > quantity: Number of units per package (mixed with grams for loose produce)
 
-# Refer to the [SQL_file](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/SQL/Zepto-sql-Analysis/Zepto_SQL_data_analysis.sql) for more details.
+### Refer to the [SQL_file](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/SQL/Zepto-sql-Analysis/Zepto_SQL_data_analysis.sql) for more details.
 
 ## 🔧 Project Workflow
-Here’s a step-by-step breakdown of what we do in this project:
 
-# 1. Database & Table Creation
+### 1. Database & Table Creation
 We start by creating a SQL table with appropriate data types:
 ```sql
 CREATE TABLE zepto (
@@ -61,10 +60,10 @@ CREATE TABLE zepto (
   quantity INTEGER
 );
 ```
-# 2. Data Import
+### 2. Data Import
 Loaded CSV using pgAdmin's import feature.
 
-# 3. 🔍 Data Exploration
+### 3. 🔍 Data Exploration
 > Counted the total number of records in the dataset
 > Viewed a sample of the dataset to understand structure and content
 > Checked for null values across all columns
@@ -72,11 +71,11 @@ Loaded CSV using pgAdmin's import feature.
 > Compared in-stock vs out-of-stock product counts
 > Detected products present multiple times, representing different SKUs
 
-# 4. 🧹 Data Cleaning
+### 4. 🧹 Data Cleaning
 > Identified and removed rows where MRP or discounted selling price was zero
 > Converted mrp and discountedSellingPrice from paise to rupees for consistency and readability
 
-# 5. 📊 Business Insights
+### 5. 📊 Business Insights
 > Found top 10 best-value products based on discount percentage
 > Identified high-MRP products that are currently out of stock
 > Estimated potential revenue for each product category
