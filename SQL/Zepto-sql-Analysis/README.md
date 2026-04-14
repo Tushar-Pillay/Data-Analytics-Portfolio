@@ -1,4 +1,4 @@
-# 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
+# 🛒 Zepto E-commerce SQL Data Analyst Project
 ![Zepto logo](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/SQL/Zepto-sql-Analysis/zepto%20image.webp)
 
 ## Overview
