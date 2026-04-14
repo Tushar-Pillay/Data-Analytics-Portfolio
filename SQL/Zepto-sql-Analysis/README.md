@@ -20,25 +20,16 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/shivamb/ne
 Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate product names exist because the same product may appear multiple times in different package sizes, weights, discounts, or categories to improve visibility – exactly how real catalog data looks.
 
  ## 🧾 Database Columns:
-> sku_id: Unique identifier for each product entry (Synthetic Primary Key)
-
-> name: Product name as it appears on the app
-
-> category: Product category like Fruits, Snacks, Beverages, etc.
-
-> mrp: Maximum Retail Price (originally in paise, converted to ₹)
-
-> discountPercent: Discount applied on MRP
-
-> discountedSellingPrice: Final price after discount (also converted to ₹)
-
-> availableQuantity: Units available in inventory
-
-> weightInGms: Product weight in grams
-
-> outOfStock: Boolean flag indicating stock availability
-
-> quantity: Number of units per package (mixed with grams for loose produce)
+- sku_id: Unique identifier for each product entry (Synthetic Primary Key)
+- name: Product name as it appears on the app
+- category: Product category like Fruits, Snacks, Beverages, etc.
+- mrp: Maximum Retail Price (originally in paise, converted to ₹)
+- discountPercent: Discount applied on MRP
+- discountedSellingPrice: Final price after discount (also converted to ₹)
+- availableQuantity: Units available in inventory
+- weightInGms: Product weight in grams
+- outOfStock: Boolean flag indicating stock availability
+- quantity: Number of units per package (mixed with grams for loose produce)
 
 ##### Refer to the [SQL_project_file](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/SQL/Zepto-sql-Analysis/Zepto_SQL_data_analysis.sql).
 
@@ -64,16 +55,16 @@ CREATE TABLE zepto (
 Loaded CSV using pgAdmin's import feature.
 
 ### 3. 🔍 Data Exploration
-> Counted the total number of records in the dataset
-> Viewed a sample of the dataset to understand structure and content
-> Checked for null values across all columns
-> Identified distinct product categories available in the dataset
-> Compared in-stock vs out-of-stock product counts
-> Detected products present multiple times, representing different SKUs
+- Counted the total number of records in the dataset
+- Viewed a sample of the dataset to understand structure and content
+- Checked for null values across all columns
+- Identified distinct product categories available in the dataset
+- Compared in-stock vs out-of-stock product counts
+- Detected products present multiple times, representing different SKUs
 
 ### 4. 🧹 Data Cleaning
-> Identified and removed rows where MRP or discounted selling price was zero
-> Converted mrp and discountedSellingPrice from paise to rupees for consistency and readability
+- Identified and removed rows where MRP or discounted selling price was zero
+- Converted mrp and discountedSellingPrice from paise to rupees for consistency and readability
 
 ### 5. 📊 Business Insights
 > Found top 10 best-value products based on discount percentage
