@@ -8,8 +8,11 @@ The following README provides a detailed account of the project's objectives, bu
 
 ## Objectives
 ✅ Set up a messy, real-world e-commerce inventory database
+
 ✅ Perform Exploratory Data Analysis (EDA) to explore product categories, availability, and pricing inconsistencies
+
 ✅ Implement Data Cleaning to handle null values, remove invalid entries, and convert pricing from paise to rupees
+
 ✅ Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue and more
 
  ## 📁 Dataset Overview
