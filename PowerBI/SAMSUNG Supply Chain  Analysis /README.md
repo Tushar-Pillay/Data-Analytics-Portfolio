@@ -23,6 +23,8 @@ It helps identify bottlenecks, optimize operations, and support data-driven deci
 🔗 **Power BI File (.pbix):**
 👉 [Dashboard](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/PowerBI/SAMSUNG%20Supply%20Chain%20%20Analysis%20/Powerbi%20Dashboard)
 
+---
+
 ## 🧠 Business Objective
 
 The goal of this project is to:
