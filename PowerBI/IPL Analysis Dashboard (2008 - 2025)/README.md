@@ -14,7 +14,7 @@ The dashboard provides a complete season-wise analytical experience where users 
 
 ## 🔗 Reference Links 
 
-- [Powerbi File](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/IPL%20Analysis.pbix)
+- [PowerBi File](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/IPL%20Analysis.pbix)
 
 - [Kaggle IPL Dataset](https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025)
 
