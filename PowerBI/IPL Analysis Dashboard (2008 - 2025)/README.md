@@ -7,16 +7,17 @@ An adaptive and interactive Power BI dashboard designed to analyze IPL seasons f
 ## 📷 Dashboard Preview
 -![Dashboard Preview](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/Dashboard%20Preview.png)
 
-- [Powerbi File](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/IPL%20Analysis.pbix)
-
 ---
 
 ## 🔗 Reference Links 
-- [IPL Official](https://www.iplt20.com/)
+
+- [Powerbi File](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/IPL%20Analysis.pbix)
 
 - [Kaggle IPL Dataset](https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025)
 
 - [Uploded Dataset](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/tree/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/Dataset)
+
+- [IPL Official](https://www.iplt20.com/)
 
 ---
 
