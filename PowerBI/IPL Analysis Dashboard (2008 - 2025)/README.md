@@ -2,11 +2,14 @@
 
 An adaptive and interactive Power BI dashboard designed to analyze IPL seasons from 2008 to 2025 using dynamic filters, KPI metrics, and sports analytics visualizations.
 
+---
+
 ## 📷 Dashboard Preview
 -![Dashboard Preview](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/Dashboard%20Preview.png)
 
 - [Powerbi File](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/PowerBI/IPL%20Analysis%20Dashboard%20(2008%20-%202025)/IPL%20Analysis.pbix)
 
+---
 
 ## 🔗 Reference Links 
 - [IPL Official](https://www.iplt20.com/)
@@ -108,6 +111,6 @@ The project demonstrates interactive reporting, data storytelling, and business 
 - Sports Analytics Visualization
 - Business-Oriented Dashboard Design
 
----
+
 
 
