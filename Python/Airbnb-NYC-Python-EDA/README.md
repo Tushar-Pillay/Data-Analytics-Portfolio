@@ -164,6 +164,31 @@ Price Per Bed = Price / Beds
 
 ---
 
+# 💡 Recommendations
+
+## For Guests
+
+- Choose listings with high ratings.
+- Private rooms offer better value.
+- Compare properties using Price Per Bed.
+
+## For Hosts
+
+- Optimize pricing.
+- Increase availability.
+- Encourage guest reviews.
+
+---
+
+## 🎯 Conclusion
+
+This project successfully explored and analyzed the **New York Airbnb Listings 2024** dataset using Exploratory Data Analysis (EDA) techniques. Through data cleaning, feature engineering, statistical analysis, and visualization, valuable insights were uncovered regarding pricing trends, room type distributions, listing availability, host activity, and neighborhood-level patterns.
+
+The analysis revealed that **Manhattan commands the highest average listing prices**, while **Brooklyn offers a balance between affordability and demand**. Entire homes and apartments dominate the market, whereas private rooms provide budget-friendly accommodation options. The introduction of the **Price Per Bed** metric further enhanced the evaluation of listing value across different property types.
+
+By leveraging Python libraries such as **Pandas, NumPy, Matplotlib, and Seaborn**, this project transformed raw Airbnb data into actionable insights that can benefit both guests and hosts. Guests can make more informed booking decisions, while hosts can optimize pricing and availability strategies based on market trends.
+
+Overall, this project demonstrates key Data Analytics competencies, including **Data Cleaning, Data Visualization, Feature Engineering, Exploratory Data Analysis (EDA), and Business Insight Generation**. Future enhancements may include predictive price modeling, sentiment analysis, and interactive dashboard development to provide even deeper insights into the Airbnb marketplace.
 
 
 
