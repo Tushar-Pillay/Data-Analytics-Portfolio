@@ -1,10 +1,6 @@
 # 🏠 Airbnb Listings EDA Project | New York 2024
 
 <p align="center">
-  <img src="https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Airbnb-NYC-Python-EDA/image_1c674873.png" alt="Airbnb Banner" width="100%">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas)
@@ -12,6 +8,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-green?style=for-the-badge)
 
+</p>
+
+<p align="center">
+  <img src="https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Airbnb-NYC-Python-EDA/image_1c674873.png" alt="Airbnb Banner" width="100%">
 </p>
 
 ---
