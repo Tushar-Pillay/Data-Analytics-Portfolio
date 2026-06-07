@@ -64,8 +64,8 @@ New York Airbnb Listings 2024
 # 📊 Dataset Source
 
 The data for this project is sourced from the Kaggle dataset:
-   #### Dataset Link:[Airbnb Dataset](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset)
-   #### [Downloaded Dataset](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Airbnb-NYC-Python-EDA/datasets.csv)
+   #### 🔗Dataset Link:[Airbnb Dataset](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset)
+   #### 🔗[Downloaded Dataset](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Airbnb-NYC-Python-EDA/datasets.csv)
 
 ---
 
