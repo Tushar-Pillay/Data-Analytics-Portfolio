@@ -5,6 +5,7 @@
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Data Analytics](https://img.shields.io/badge/Focus-Decision%20Making-red)
 
+![McDonald's India](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/image_afdf3c13.png)
 ---
 
 # 🎓 IIT Madras BDM Capstone Project
