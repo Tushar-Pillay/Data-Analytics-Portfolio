@@ -9,7 +9,7 @@
 
 # 🎓 IIT Madras BDM Capstone Project
 
-This project was completed as part of the **Business Data Management (BDM) Capstone Project** under the **IIT Madras Online BS Degree Program**.
+This project was completed as part of the **Business Data Management (BDM) Subject** under the **IIT Madras**.
 
 The BDM Capstone Project is designed to help students apply business analytics concepts to real-world business problems. Students are required to identify a business challenge, collect and analyze relevant data, derive meaningful insights, and propose actionable recommendations using analytical techniques.
 
@@ -117,15 +117,15 @@ categories.
 
 ### Dataset Source
 
-Kaggle
+[Kaggle](https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts)
 
 ### Dataset
 
-McDonald's India Menu Nutrition Dataset
+[McDonald's India Menu Nutrition Dataset](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/India_Menu.csv)
 
-### Dataset Link
+### Excel Analysis
 
-https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
+[Excel_File](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Indian_Menu%20Excel%20Analysis.xlsx)
 
 ### Dataset Characteristics
 
@@ -332,19 +332,19 @@ This project demonstrates how business analytics can be leveraged to:
 
 ### Scatter Plot: Protein vs Satiety Efficiency
 
-(Add Screenshot)
+[Fig](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Scatter%20plot.png)
 
 ### Average Protein by Category
 
-(Add Screenshot)
+[fig](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Average%20protein%20vs%20menue.png)
 
 ### Healthy Bundle Optimization
 
-(Add Screenshot)
+[fig](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Healthy%20Bunddle.png)
 
 ### Health Tier Distribution
 
-(Add Screenshot)
+[fig](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Healthy%20tier%20Distribution.png)
 
 ---
 
@@ -352,48 +352,22 @@ This project demonstrates how business analytics can be leveraged to:
 
 ## 📄 Proposal Report
 
-[View Proposal Report](./Proposal_Report.pdf)
+[View Proposal Report](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Proposal%20file%20-%20Github.pdf)
 
 ## 📄 Final Report
 
-[View Final Report](./Final_Report.pdf)
+[View Final Report](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Final%20report.pdf)
 
 ## 📄 Viva Presentation
 
-[View Presentation](./BDM_Capstone_Presentation.pdf)
+[View Presentation](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/PPT%20Github.pdf)
 
 ---
 
-# 📚 References
 
-1. McDonald's India Menu Nutrition Dataset
-   https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
 
-2. Food Safety and Standards Authority of India (FSSAI)
-   https://www.fssai.gov.in
 
-3. IIT Madras Online BS Degree Program
-   https://study.iitm.ac.in
 
----
-
-# 👨‍💻 Author
-
-## Tushar Pillay
-
-Business Analytics | Data Analytics | Business Intelligence
-
-🎓 IIT Madras Online BS Degree Program
-
-📧 [tusharpillay04@gmail.com](mailto:tusharpillay04@gmail.com)
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/tusharpillay/
-
-🔗 GitHub:
-https://github.com/Tushar-Pillay
-
----
 
 ⭐ If you found this project interesting, consider giving the repository a star.
 
