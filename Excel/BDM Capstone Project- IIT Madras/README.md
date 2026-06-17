@@ -370,5 +370,3 @@ This project demonstrates how business analytics can be leveraged to:
 
 
 
-⭐ If you found this project interesting, consider giving the repository a star.
-
