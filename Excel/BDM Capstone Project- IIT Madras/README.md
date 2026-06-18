@@ -364,7 +364,13 @@ This project demonstrates how business analytics can be leveraged to:
 [View Presentation](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/PPT%20Github.pdf)
 
 ---
+## ⚠️ Disclaimer
 
+> This repository contains a portfolio version of my IIT Madras BDM Capstone Project. Some content has been removed or anonymized to protect academic and confidential information.
+
+> The McDonald's name and logo are used solely for educational and academic study purposes. This project is an independent analytical study and does not imply any affiliation, endorsement, ownership, commercial interest, or official association with McDonald's.
+
+> All analysis, findings, and recommendations are based on publicly available data and are presented purely for learning, research, and portfolio purposes. No personal bias, ownership claim, or commercial intent is involved.
 
 
 
