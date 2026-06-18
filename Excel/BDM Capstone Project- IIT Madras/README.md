@@ -361,7 +361,7 @@ This project demonstrates how business analytics can be leveraged to:
 
 ## 📄 Viva Presentation
 
-[View Presentation](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/PPT%20Github.pdf)
+[View Presentation](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Excel/BDM%20Capstone%20Project-%20IIT%20Madras/Presentation%20ppt.pdf)
 
 ---
 ## ⚠️ Disclaimer
