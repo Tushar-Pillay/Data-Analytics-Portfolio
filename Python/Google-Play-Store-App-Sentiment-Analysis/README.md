@@ -11,10 +11,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Product-Sentiment-Analysis/banner.png" alt="Product Sentiment Analysis Banner" width="100%">
-</p>
-
 ---
 
 # 📖 Project Overview
@@ -65,16 +61,25 @@ Health & Fitness
 
 ---
 
-# 📊 Dataset Source
+# 📁 Project Files & References
 
 The data for this project is sourced from Kaggle:
 
 #### 🔗 Dataset Link:
 [Google Play Store Apps Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
-
-**Dataset Author:** L. Gupta
-
 The dataset contains Google Play Store application information and user reviews.
+
+### 🐍 Python Analysis
+- [Python Project File / Jupyter Notebook](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Google-Play-Store-App-Sentiment-Analysis/Python%20file.ipynb)
+
+### 📄 Project Report
+- [Final Project Report](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Google-Play-Store-App-Sentiment-Analysis/Product_Sentiment_Analysis_Final_Report.pdf)
+
+### 📝 Project Synopsis
+- [Project Synopsis](./Product_Sentiment_Analysis_Synopsis.pdf)
+
+### 📊 Project Presentation
+- [Project PPT](https://github.com/Tushar-Pillay/Data-Analytics-Portfolio/blob/main/Python/Google-Play-Store-App-Sentiment-Analysis/Product_Sentiment_Analysis_Project_Presentation.pdf)
 
 ---
 
@@ -126,4 +131,105 @@ Used **TF-IDF (Term Frequency–Inverse Document Frequency)** to identify import
 ## Feature Prioritization
 
 Used the **RICE Framework**:
+
+to prioritize extracted terms.
+
+---
+
+# 🔍 Key Findings
+
+## 😊 Sentiment Analysis
+
+Out of 272 reviews:
+
+- Positive: **192 (70.6%)**
+- Negative: **50 (18.4%)**
+- Neutral: **30 (11.0%)**
+
+The majority of analyzed reviews were positive.
+
+## 📝 Review Analysis
+
+The average review length was approximately:
+
+**147.33 characters**
+
+## 🔤 TF-IDF Analysis
+
+Important terms identified included:
+
+- App
+- Like
+- Great
+- Good
+- Day
+- Work
+- Easy
+- Love
+- Track
+- Workout
+- Calories
+- Food
+
+## 📊 RICE Prioritization
+
+The RICE framework was applied to the top TF-IDF terms.
+
+The highest RICE scores were associated with frequently occurring terms such as:
+
+- App
+- Work
+- Like
+- Great
+- Day
+
+> Note: Impact, Confidence, and Effort were kept constant in this analysis, so the RICE ranking is primarily influenced by Reach.
+
+---
+
+# 💡 Business Insights
+
+## 📱 Product Improvement
+
+Frequently discussed terms can help identify areas that users commonly mention in their reviews.
+
+## 😊 Customer Experience
+
+Sentiment analysis helps understand whether users are generally satisfied or dissatisfied with the application.
+
+## 🎯 Feature Prioritization
+
+RICE provides a structured framework for prioritizing areas based on their potential reach and assumed impact.
+
+## 📊 Data-Driven Decisions
+
+Combining sentiment analysis, TF-IDF, and RICE helps transform unstructured customer reviews into structured product insights.
+
+---
+
+# 🧠 Methodology
+
+The project follows the pipeline:
+
+```text
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+Health & Fitness Filtering
+       ↓
+Top 30 Application Selection
+       ↓
+Review Matching
+       ↓
+Review Analysis
+       ↓
+VADER Sentiment Analysis
+       ↓
+TF-IDF Feature Extraction
+       ↓
+RICE Prioritization
+       ↓
+Business Insights
+
 
